@@ -112,13 +112,13 @@ Some key insights identified from the analysis:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/Gnilu/customer_behavior_analysis.git
 ```
 
 ### 2. Install Required Libraries
 
 ```bash
-pip install sqlalchemy psycopg2
+pip install psycopg2.binary sqlalchemy
 ```
 
 ### 3. Run Python Notebook
